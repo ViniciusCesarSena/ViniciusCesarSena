@@ -16,7 +16,7 @@ I hope you enjoy my profile. I am always open to talking, learning, and communic
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-443997?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/viniciuscesarsena/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-443997?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)]([https://www.linkedin.com/in/viniciuscesarsena/](https://www.linkedin.com/in/viniciuscsena))
 
 
 ### GitHub Stats
