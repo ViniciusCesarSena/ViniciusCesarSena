@@ -14,15 +14,28 @@ I hope you enjoy my profile. I am always open to talking, learning, and communic
 [![GitHub Page](https://img.shields.io/badge/viniciuscesarsena.github.io-800080?style=for-the-badge)](https://viniciuscesarsena.github.io/)
 -->
 
-### Conecte-se comigo
+### Socials: 🌐
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-443997?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)]([[https://www.linkedin.com/in/viniciuscsena](https://www.linkedin.com/in/viniciuscsena)](https://www.linkedin.com/in/viniciuscsena))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuscsena/) 
 
 
-### GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=viniciuscesarsena&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=viniciuscesarsena&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscesarsena&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciuscesarsena&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=443997&title_color=ffffff&text_color=ffffff&border_radius=3&border_color=ffffff&icon_color=ffffff&theme=jolly)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciuscesarsena&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=00BFFF&hide=html,css,scss&bg_color=4B0082&text_color=8B8B8B&border_radius=3&border_color=4B0082&count_private=true)](https://github.com/viniciuscesarsena/github-readme-stats)-->
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=viniciuscesarsena&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 <details align="left">
   <summary></summary> 
